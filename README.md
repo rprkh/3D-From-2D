@@ -4,6 +4,8 @@ This project demonstrates an end to end pipeline for reconstructing a 3D point c
 
 # Outputs
 
-<img width="650" height="500" alt="image" src="https://github.com/user-attachments/assets/ce5ba601-8fd2-4ced-9a82-1f812b6eba28" />
+<img width="650" height="500" alt="image" src="https://github.com/user-attachments/assets/da659e49-4b00-4781-a868-4dfc236da788" />
 
-<img width="650" height="500" alt="image" src="https://github.com/user-attachments/assets/8345288d-8941-4ec0-b282-d0b9542dd7d9" />
+
+<img width="650" height="500" alt="image" src="https://github.com/user-attachments/assets/304ea7d0-d9a1-472d-9bdb-7d47a2365168" />
+
